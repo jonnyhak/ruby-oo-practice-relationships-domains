@@ -5,3 +5,5 @@ def reload
 end
 
 Pry.start
+
+puts "Hello World"
